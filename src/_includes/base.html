@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} - Antiplastic Lifeform</title>
+    <style>
+        body { background-color: #000000; color: #ffffff; font-family: sans-serif; line-height: 1.6; padding: 20px; margin: 0; }
+        .wrapper { max-width: 650px; margin: 0 auto; }
+        h1, h2 { font-family: sans-serif; text-transform: uppercase; font-size: 2.5rem; margin-top: 30px; }
+        a { color: #ff0000; text-decoration: none; }
+        a:hover { background-color: #ff0000; color: #000000; }
+        footer { margin-top: 50px; border-top: 1px dashed #ff0000; padding-top: 20px; font-size: 0.8rem; }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            <h1>{{ title }}</h1>
+            <nav><a href="/">[ HOME ]</a></nav>
+        </header>
+        <main>
+            {{ content | safe }}
+        </main>
+        <footer>
+            <p>As an Amazon Associate, I earn from qualifying purchases.</p>
+        </footer>
+    </div>
+</body>
+</html>
