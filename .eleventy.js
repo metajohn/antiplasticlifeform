@@ -1,1 +1,11 @@
-module.exports = function(eleventyConfig) {return {dir: { input: 'src', output: '_site'}}; }
+module.exports = function(eleventyConfig) {
+    return {
+        markdownTemplateEngine: "njk",
+        htmlTemplateEngine: "njk",
+
+        dir: { 
+            input: 'src', 
+            output: '_site'
+        }
+    }; 
+}
