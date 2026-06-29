@@ -8,4 +8,6 @@ layout: base.html
 This environment is built for active structural material research, data curation, and experiment iteration.
 
 ### Material Analysis
-* [Material Matrix Analysis](/posts/glass-vs-polycarbonate/)
+* [ancient-future-practices](posts/ancient-future-practices.md)
+* [surface-treatments](posts/surface-treatments.md)
+* [products-general](posts/products-general.md)
