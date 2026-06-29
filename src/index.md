@@ -8,6 +8,6 @@ layout: base.html
 This environment is built for active structural material research, data curation, and experiment iteration.
 
 ### Material Analysis
-* [ancient-future-practices](posts/ancient-future-practices.md)
+* [ancient-future-practices](/posts/ancient-future-practices/)
 * [surface-treatments](posts/surface-treatments.md)
 * [products-general](posts/products-general.md)
