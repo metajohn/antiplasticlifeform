@@ -1,4 +1,7 @@
-[index](../index.md)
+---
+title: Ancient Future Practices
+layout: base.html
+---
 
 Ohagaru
 Red Ochre Fat Treatments

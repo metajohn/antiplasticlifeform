@@ -1,3 +1,7 @@
+---
+title: Products General
+layout: base.html
+---
 [index](../index.md)
 
 Legally, in the US, all materials in clothing and products do not actually have to be disclosed. A good example of this is sewing thread, a 100% organic cotton shirt can have 100% recycled gutter oil polyester thread. There are ways around this, for example: plastic thread will not accept dye, so if the clothing is garment dyed you will see the thread. "Recycled" "blends" lol they fucking hate you dog, they cut costs and brainwashed you into thinking "Environmentally friendly TM" isn't about cutting costs to shred plastic bottles into slave class synthetic materials permanently which deteriorate and are now embedded into your vital organs like internal tattoos marking your economic status
